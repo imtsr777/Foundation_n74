@@ -6,5 +6,4 @@ my_name = "Abror"
 add_new = 909
 sana = 2024
 
-
 hello_by_jas = "HI nt n74 group"
