@@ -4,3 +4,4 @@ second = 91
 cnakcna = 98
 my_name - "Abror"
 add_new = 909
+sana = 2024
